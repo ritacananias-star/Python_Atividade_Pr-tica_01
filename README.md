@@ -1,3 +1,3 @@
-# Python_Atividade_Pratica_01
+# Python_Atividade_Prática
 Atividade prática com programas básicos em Python
 
